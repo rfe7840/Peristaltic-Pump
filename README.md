@@ -8,4 +8,10 @@ Aim of the project is a DIY version of a peristaltic Pump. Control of mass flow 
 * 3D Model of 28byj-48 5V Motor (just used for design)
 * Moving parts mounted on the motor-axis (holding bearings)
 
+## TODO
+
+* print parts 
+* write control-code
+* testing and adaption
+
 
