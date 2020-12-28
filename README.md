@@ -15,3 +15,6 @@ Aim of the project is a DIY version of a peristaltic Pump. Control of mass flow 
 * testing and adaption
 
 
+## Sources
+
+The code for the stepper driver was taken from https://github.com/zhcong/ULN2003-for-ESP32
