@@ -22,11 +22,12 @@ s1.angle(360,-1)
 
 ## TODO
 
+* Test other motor
 
 ## DONE
 * print parts 
 * write control-code
-* testing and adaption
+* testing and adaption (The 28BYJ-48 Motor has not enough torque)
 
 
 ## Sources
