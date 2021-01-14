@@ -23,6 +23,8 @@ s1.angle(360,-1)
 ## TODO
 
 * Test other motor
+* Redesign 3D
+* Printing and Testing
 
 ## DONE
 * print parts 
